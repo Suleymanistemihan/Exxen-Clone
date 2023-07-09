@@ -89,10 +89,29 @@ body {
     font-size: 15px;
     margin-right: 15px;
 }
-.inputCont{
+
+.inputCont {
     padding-left: 25px;
 }
+
 .inputt {
     height: 42px;
     width: 320px;
+}
+
+.eventSide {
+    padding-top: 2%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.eventImg {
+    width: 100%;
+}
+
+.evetLink {
+
+    width: 68%;
 }
